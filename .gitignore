@@ -1,0 +1,17 @@
+vendor/
+node_modules/
+.env
+.env.local
+.env.testing
+.phpunit.result.cache
+composer.lock
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.sublime-*
+.php_cs.cache
+.phpcs.xml
+phpunit.xml.dist
